@@ -98,6 +98,13 @@ public class Gui {
         }
     }
 
+
+
+
+
+
+    
+
     private static void printMainMenu() {
         System.out.println("1. Wyswietl dostepne pojazdy");
         System.out.println("2. Wyswietl dostepne samochodu");
